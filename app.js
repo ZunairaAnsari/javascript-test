@@ -27,7 +27,7 @@ function maxProduct(nums) {
 }
 
 const myNums = [2, 3, -3, 4];
-console.log(maxProduct(myNums)); // Output: 6 (from subarray [2, 3])
+console.log(maxProduct(myNums));
 
 
 
